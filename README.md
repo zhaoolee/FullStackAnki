@@ -10,6 +10,18 @@
 
 Anki支持将虚拟卡牌导出为牌组包,其它人收到牌组包后,用Anki打开即可使用,我会将各章节内容对应的牌组包, 存储到这个仓库,如果你对某个章节的知识感兴趣,下载对应的牌组包即可
 
+## 记忆卡牌是个什么东西?
+
+#### 卡牌正面
+
+![](https://upload-images.jianshu.io/upload_images/3203841-508c4391b6db200a.png)
+
+
+#### 卡牌反面
+
+> ![](https://upload-images.jianshu.io/upload_images/3203841-78844fffd21d3c42.png)
+
+
 
 
 
