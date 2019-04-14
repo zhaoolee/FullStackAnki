@@ -14,12 +14,13 @@ Anki支持将虚拟卡牌导出为牌组包,其它人收到牌组包后,用Anki�
 
 #### 卡牌正面
 
-![](https://upload-images.jianshu.io/upload_images/3203841-508c4391b6db200a.png)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-2360e13b286b00ec.jpg)
 
 
 #### 卡牌反面
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-78844fffd21d3c42.png)
+> ![](https://upload-images.jianshu.io/upload_images/3203841-d4dd090c37b49f89.jpg)
+
 
 #### 牌面预览
 ![](https://upload-images.jianshu.io/upload_images/3203841-ab41e0e43050eff5.gif)
