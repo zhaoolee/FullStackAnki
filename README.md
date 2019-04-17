@@ -27,5 +27,9 @@ Anki支持将虚拟卡牌导出为牌组包,其它人收到牌组包后,用Anki�
 > ![](https://upload-images.jianshu.io/upload_images/3203841-4a34ed059a2adca9.gif)
 
 
+## 用Markdown生成卡牌
+>  ![](https://upload-images.jianshu.io/upload_images/3203841-3b6ea7bd1cad09b6.gif)
+- 在线工具开源地址: https://github.com/zhaoolee/md2AnkiHtml
+
 README.md建设中...
 
